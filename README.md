@@ -30,7 +30,3 @@
 
 
 <br />
----
-[instagram]: https://www.instagram.com/gustavo.alvaradom/
-[linkedin]: https://www.linkedin.com/in/gustavoadolfoalvarado/
-[portfolio]: https://github.com/JrGustavoAlvarado
